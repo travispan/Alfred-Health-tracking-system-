@@ -1,1 +1,1 @@
-# Alfred_Pulse (EagleCAD project)
+# Alfred: Health Information tracking system (final year design project)
